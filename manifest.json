@@ -1,0 +1,38 @@
+{
+  "name": "ಮೊಟ್ಟೆ-ಬಾಳೆಹಣ್ಣು ಮಾಸಿಕ ಲೆಕ್ಕಪತ್ರ",
+  "short_name": "ಮೊಟ್ಟೆ-ಬಾಳೆ ಲೆಕ್ಕ",
+  "description": "ಶಾಲಾ ಮಧ್ಯಾಹ್ನ ಉಪಾಹಾರ ಯೋಜನೆಯ ಮೊಟ್ಟೆ ಮತ್ತು ಬಾಳೆಹಣ್ಣಿನ ಮಾಸಿಕ ಲೆಕ್ಕಪತ್ರ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F6F3EC",
+  "theme_color": "#2F5D50",
+  "lang": "kn",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
